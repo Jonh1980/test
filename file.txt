@@ -1,2 +1,7 @@
 uno
 dos
+<<<<<<< HEAD
+=======
+tres
+cuatro
+>>>>>>> 3defac2fad5b33462385174c22ad089eb92051d9
